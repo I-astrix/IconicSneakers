@@ -715,3 +715,17 @@ position: relative;
 .nav-brand-img img{
   height: 50px;
 }
+
+.arrow-btn{
+  display: flex;
+  margin-top: 2rem;
+  justify-content: center;
+}
+
+.arrow-btn a{
+  padding: 2rem;
+}
+
+.arrow-btn img{
+  width: 30px;
+}

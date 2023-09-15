@@ -711,3 +711,7 @@ position: relative;
   padding: 1rem;
   color: #ffffff;
 }
+
+.nav-brand-img img{
+  height: 50px;
+}
